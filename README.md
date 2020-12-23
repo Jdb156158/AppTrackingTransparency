@@ -3,9 +3,9 @@ iOS 14 Checklist-App Tracking Transparency（ATT）适用于请求用户授权�
 
 # 用户授权效果图
 
-<img src="/Users/dbj/Desktop/AppTrackingTransparency/READMEIMAGE/Simulator Screen Shot - iPhone 8 - 2020-12-23 at 13.28.49.png" style="zoom:25%;" />
+<img src="./READMEIMAGE/Simulator Screen Shot - iPhone 8 - 2020-12-23 at 13.28.49.png" style="zoom:25%;" />
 
-<img src="/Users/dbj/Desktop/AppTrackingTransparency/READMEIMAGE/Simulator Screen Shot - iPhone 8 - 2020-12-23 at 14.06.08.png" style="zoom:25%;" />
+<img src="./READMEIMAGE/Simulator Screen Shot - iPhone 8 - 2020-12-23 at 14.06.08.png" style="zoom:25%;" />
 
 
 # 注意事项：
